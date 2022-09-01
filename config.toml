@@ -22,6 +22,7 @@ theme = "m10c"
 
 [params]
 author = "Kyrillos"
+avatar = "images/Me.jpg
 description = "Servant of the Lord."
 menu_item_separator = " - "
 [[params.social]]
