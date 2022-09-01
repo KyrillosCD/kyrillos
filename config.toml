@@ -1,0 +1,30 @@
+baseURL = 'https://kyrillos.xyz'
+languageCode = 'en-us'
+title = 'Kyrillos'
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+author = "Kyrillos"
+description = "Servant of the Lord."
+menu_item_separator = " - "
+[[params.social]]
+icon = "discord"
+name = "Discord"
+url = "https://discord.com/users/201626238400331776"
