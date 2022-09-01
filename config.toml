@@ -23,7 +23,7 @@ theme = "m10c"
 [params]
 author = "Kyrillos"
 description = "Servant of the Lord."
-avatar = "/images/Me.jpg"
+avatar = "/assets/images/me.jpg"
 menu_item_separator = " - "
 [[params.social]]
 icon = "discord"
